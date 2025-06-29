@@ -1,25 +1,45 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Physics+@+Harvard.;Software+Engineer+@+chrt.;I+like+cooking.;Used+to+run+fast+%E2%9A%92%EF%B8%8F;" alt="Typing SVG" />
-</p>
+# 🎆 Particle Simulation
 
-<h1 align="center">Vivien</h1>
-<p align="center">From pro running to AI infra. Currently writing code, not lab reports.</p>
+Welcome to my interactive particle simulation! This project features a dynamic particle system with physics-based movement, gravity, collision detection, and interactive elements.
+
+## ✨ Features
+
+- **Physics-based movement** with gravity and velocity
+- **Collision detection** with wall bouncing
+- **Interactive particles** - move your mouse to create new particles
+- **Dynamic connections** between nearby particles
+- **Colorful particles** with random colors and sizes
+- **Smooth animations** with fade effects
+
+## 🚀 Try It Out
+
+Open `particles.html` in your browser to see the simulation in action!
+
+### Interactive Controls:
+- **Mouse movement**: Creates new particles as you move
+- **Click**: Spawns a burst of particles at the click location
+- **Automatic**: Particles continuously spawn and interact
+
+## 🛠️ Technical Details
+
+The simulation is built using:
+- HTML5 Canvas for rendering
+- JavaScript ES6+ for particle physics
+- CSS for styling and layout
+- RequestAnimationFrame for smooth 60fps animation
+
+## 📁 Files
+
+- `particles.html` - The main simulation file
+- `README.md` - This documentation
+
+## 🎯 Future Enhancements
+
+- Particle attraction/repulsion forces
+- Different particle types and behaviors
+- Sound effects on particle interactions
+- Performance optimizations for larger particle counts
 
 ---
 
-## Projects
-
-- **[Parsed](https://github.com/your-username/parsed)**  
-  AI-powered news app that filters bias, surfaces alt-media, and tailors stories by profession.
-
-- **ThreadRunner**  
-  A local-first LLM runtime that turns your email inbox into a reinforcement learning environment.
-
----
-
-## Stack
-
-```txt
-Rust · FastAPI · Dart · Python · MongoDB · React Native · Flutter  
-LLM runtimes · personal agents · AI journalism tools · system-level dev
+*Enjoy the mesmerizing dance of particles! 🌟*
