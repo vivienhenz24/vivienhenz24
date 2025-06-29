@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Physics+@+Harvard.;Software+Engineer+@+chrt.;Builder+of+LLM+infrastructure.;Ex-pro+runner+%E2%9A%92%EF%B8%8F;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Physics+@+Harvard.;Software+Engineer+@+chrt.;I+like+cooking.;Used+to+run+fast+%E2%9A%92%EF%B8%8F;" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Vivien</h1>
